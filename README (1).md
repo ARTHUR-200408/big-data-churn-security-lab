@@ -31,6 +31,8 @@ An end-to-end Big Data project built on a single-node Hadoop and Spark cluster i
 - Accuracy alone was misleading. Because of class imbalance, recall was the more honest measure of the model.
 - Insecure defaults were common: MongoDB had no authentication and HDFS was world-readable until I configured them.
 
+- Code: see the scripts folder.
+
 ## Skills demonstrated
 
 Linux administration · Hadoop and HDFS · Apache Spark · Data cleaning and EDA · Machine learning (R) · Dashboard development · MongoDB · Flask · Access control · Encryption · Data protection compliance · Troubleshooting
